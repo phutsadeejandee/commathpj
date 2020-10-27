@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "496245f244e0d2ae9f07c02e4156f74b",
+    "revision": "871a8d408a8e17ad2594e7cf7516fdae",
     "url": "/commathpj/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/commathpj/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "2cb50033f3e78e8682c5",
+    "revision": "438cc5671222b1c7b700",
     "url": "/commathpj/static/css/main.2f3f22ff.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/commathpj/static/js/2.c7597dc5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2cb50033f3e78e8682c5",
-    "url": "/commathpj/static/js/main.4dcc306d.chunk.js"
+    "revision": "438cc5671222b1c7b700",
+    "url": "/commathpj/static/js/main.848dd8e5.chunk.js"
   },
   {
     "revision": "9c14ac970be51d140a26",
