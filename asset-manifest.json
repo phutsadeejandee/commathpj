@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/commathpj/static/css/main.2f3f22ff.chunk.css",
+    "main.js": "/commathpj/static/js/main.4dcc306d.chunk.js",
+    "main.js.map": "/commathpj/static/js/main.4dcc306d.chunk.js.map",
+    "runtime-main.js": "/commathpj/static/js/runtime-main.fa58e77e.js",
+    "runtime-main.js.map": "/commathpj/static/js/runtime-main.fa58e77e.js.map",
+    "static/css/2.2a86faee.chunk.css": "/commathpj/static/css/2.2a86faee.chunk.css",
+    "static/js/2.c7597dc5.chunk.js": "/commathpj/static/js/2.c7597dc5.chunk.js",
+    "static/js/2.c7597dc5.chunk.js.map": "/commathpj/static/js/2.c7597dc5.chunk.js.map",
+    "index.html": "/commathpj/index.html",
+    "precache-manifest.035a72df461d8c1456e3af8b3ec5bd67.js": "/commathpj/precache-manifest.035a72df461d8c1456e3af8b3ec5bd67.js",
+    "service-worker.js": "/commathpj/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/commathpj/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.2f3f22ff.chunk.css.map": "/commathpj/static/css/main.2f3f22ff.chunk.css.map",
+    "static/js/2.c7597dc5.chunk.js.LICENSE.txt": "/commathpj/static/js/2.c7597dc5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/commathpj/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa58e77e.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.c7597dc5.chunk.js",
+    "static/css/main.2f3f22ff.chunk.css",
+    "static/js/main.4dcc306d.chunk.js"
+  ]
+}
